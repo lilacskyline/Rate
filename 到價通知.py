@@ -16,7 +16,7 @@ def lineNotifyMessage(token, msg):
 
 def message(mes):
     if __name__ == "__main__":
-        token = '權杖' ###
+        token = 'M2ZLGuDyqLPmuPZMZUp9zePgP0j6WzFNPwfjlgiAHaW' ###權杖 
         message = ("\n"+mes)
         lineNotifyMessage(token, message)
 
